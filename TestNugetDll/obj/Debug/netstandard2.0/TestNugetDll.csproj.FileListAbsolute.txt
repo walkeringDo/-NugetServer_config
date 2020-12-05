@@ -1,0 +1,9 @@
+F:\GITpro\设计模式 Nuget\NugetServer\NuGetServer\TestNugetDll\bin\Debug\netstandard2.0\TestNugetDll.deps.json
+F:\GITpro\设计模式 Nuget\NugetServer\NuGetServer\TestNugetDll\bin\Debug\netstandard2.0\TestNugetDll.dll
+F:\GITpro\设计模式 Nuget\NugetServer\NuGetServer\TestNugetDll\bin\Debug\netstandard2.0\TestNugetDll.pdb
+F:\GITpro\设计模式 Nuget\NugetServer\NuGetServer\TestNugetDll\obj\Debug\netstandard2.0\TestNugetDll.csprojAssemblyReference.cache
+F:\GITpro\设计模式 Nuget\NugetServer\NuGetServer\TestNugetDll\obj\Debug\netstandard2.0\TestNugetDll.AssemblyInfoInputs.cache
+F:\GITpro\设计模式 Nuget\NugetServer\NuGetServer\TestNugetDll\obj\Debug\netstandard2.0\TestNugetDll.AssemblyInfo.cs
+F:\GITpro\设计模式 Nuget\NugetServer\NuGetServer\TestNugetDll\obj\Debug\netstandard2.0\TestNugetDll.csproj.CoreCompileInputs.cache
+F:\GITpro\设计模式 Nuget\NugetServer\NuGetServer\TestNugetDll\obj\Debug\netstandard2.0\TestNugetDll.dll
+F:\GITpro\设计模式 Nuget\NugetServer\NuGetServer\TestNugetDll\obj\Debug\netstandard2.0\TestNugetDll.pdb

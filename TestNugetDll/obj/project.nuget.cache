@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zoanAJhlx4uZLPciKKT56V7jc3IePkN6qXPM/9x0qNJd6pzQpbgR6agnLOXl+SK1hbAeSoo8Hz4RYKI24QBIYg==",
+  "success": true,
+  "projectFilePath": "F:\\GITpro\\设计模式 Nuget\\NugetServer\\NuGetServer\\TestNugetDll\\TestNugetDll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

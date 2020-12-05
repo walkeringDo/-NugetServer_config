@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGetServer", "NuGetServer\NuGetServer.csproj", "{0AFFF271-7F81-4BF2-BBA2-862652A3B152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestNugetDll", "TestNugetDll\TestNugetDll.csproj", "{AF5B109E-9EAB-4DD7-A4E6-9282220A2EEF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B1A13463-D455-40DE-8974-64D99075CD1B}"
+	ProjectSection(SolutionItems) = preProject
+		Read.txt = Read.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFFF271-7F81-4BF2-BBA2-862652A3B152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFFF271-7F81-4BF2-BBA2-862652A3B152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFFF271-7F81-4BF2-BBA2-862652A3B152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFFF271-7F81-4BF2-BBA2-862652A3B152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5B109E-9EAB-4DD7-A4E6-9282220A2EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5B109E-9EAB-4DD7-A4E6-9282220A2EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5B109E-9EAB-4DD7-A4E6-9282220A2EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5B109E-9EAB-4DD7-A4E6-9282220A2EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E94BC4D4-9112-4A16-A8F2-EBBA4DA3FA92}
+	EndGlobalSection
+EndGlobal
